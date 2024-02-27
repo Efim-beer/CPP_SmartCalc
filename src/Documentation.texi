@@ -1,0 +1,14 @@
+Smart_Calc
+
+About programm
+
+- The program is implemented on the QT graphics library. The calculator has the ability to calculate the result of the entered expression.
+- The user has the ability to construct the entered expression. The graph will first be built with default values, and in a new window with a graph, you will be prompted to set the range x D(F) and the range y E(F).
+
+How to start
+
+- To start using the calculator, you need to install it using the "make install" command. This command will install the program on the desktop in the SmartCalc_Torell folder.
+
+Unistall
+
+- To remove the user program. You can use the "make uninstall" command
